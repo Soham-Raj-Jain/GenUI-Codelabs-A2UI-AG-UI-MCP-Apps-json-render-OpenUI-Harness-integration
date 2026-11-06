@@ -4,7 +4,7 @@
 One Colab notebook, free to run, with every example executed and rendered inline.
 
 [Open the notebook in Colab](https://colab.research.google.com/drive/1LUdZIYEWlvV2LfKDj4GiuuHs1NdDNH8r?usp=sharing)
- · [Video]()
+ ·  [Watch the demo video](https://youtu.be/AGRW1Pwfj88)
 
 ## What is generative UI?
 
